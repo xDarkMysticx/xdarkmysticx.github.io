@@ -1,6 +1,6 @@
 <IfModule mod_rewrite.c>
     RewriteEngine On
-    RewriteBase /UnescoWebsite/
+    RewriteBase /xdarkmysticx.github.io/
     RewriteRule ^(admin)($|/) - [L]
 
     RewriteRule \.css$ - [L]
