@@ -1,6 +1,6 @@
 <IfModule mod_rewrite.c>
     RewriteEngine On
-    RewriteBase /xdarkmysticx.github.io/
+    RewriteBase /
     RewriteRule ^(admin)($|/) - [L]
 
     RewriteRule \.css$ - [L]
